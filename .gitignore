@@ -1,0 +1,8 @@
+# Gmsh generated files #
+########################
+*.msh
+
+# GetDP generated files #
+#########################
+*.pre
+*.res
